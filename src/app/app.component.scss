@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.global-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    width: 1440px;
+}
+
+.header {
+    width: 1440px;
+    background-color: rgb(186, 41, 41)636;
+}
+
+.footer {
+    background-color: rgb(106, 2, 2)636;
+}
